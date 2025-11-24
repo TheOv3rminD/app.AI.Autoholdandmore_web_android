@@ -1,0 +1,22 @@
+{
+  "short_name": "CruiseControl",
+  "name": "Cruise Control Voice Interceptor",
+  "icons": [
+    {
+      "src": "https://cdn.lucide.dev/icon/phone-call?size=192&stroke=white&stroke-width=2",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.lucide.dev/icon/phone-call?size=512&stroke=white&stroke-width=2",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "orientation": "portrait",
+  "scope": "/"
+}

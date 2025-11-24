@@ -1,0 +1,7 @@
+{
+  "name": "Cruise Control Voice",
+  "description": "Real-time AI voice interceptor for calls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
