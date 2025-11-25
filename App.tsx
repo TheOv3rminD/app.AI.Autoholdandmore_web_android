@@ -177,7 +177,7 @@ export default function App() {
                     {[
                         { id: AgentMode.CASUAL, icon: Zap, label: 'Casual' },
                         { id: AgentMode.MONITOR, icon: Ear, label: 'Monitor' },
-                        { id: AgentMode.NEGOTIATE, icon: BrainCircuit, label: 'Haggle' },
+                        { id: AgentMode.NEGOTIATE, icon: BrainCircuit, label: 'Persistent' },
                         { id: AgentMode.FILIBUSTER, icon: ShieldAlert, label: 'Attack' },
                     ].map((m) => (
                         <button
